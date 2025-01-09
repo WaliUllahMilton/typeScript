@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+out/
+lib/
+
+# TypeScript compiled files
+*.tsbuildinfo
+
+# TypeScript declaration files
+*.d.ts
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# NPM package lock
+package-lock.json
+yarn.lock
+
+# Ignore any files related to npm cache
+npm-debug.log
+yarn-error.log
+
+# Test coverage
+coverage/
+
+# Jest snapshot files (optional, if using Jest for testing)
+*.snap
+
+# IDE-related files (optional)
+.idea/
